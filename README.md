@@ -13,6 +13,9 @@
 1. Arduino UNO
 2. JoyStick Shield Module
 3. 1.44" TFT LCD Display
+4. Breadboard
+5. Jumper Wires
+6. USB Cable for Arduino UNO
 
 ## Circuit Connections 
 
